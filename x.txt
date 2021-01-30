@@ -1,0 +1,9 @@
+# Import a datasmith file and possibly place it in the scene 
+# Join static mesh actors based on their label
+# Merge all static mesh actors (either based on layer or level)
+# Organize the actors of a udatasmith scene into layers based on their label and replace some materials.
+# For all static mesh actors, read the metadata corresponding to certain keys and write the values as CSV file
+# Replaces all materials used in the scene with those metrials with the same label placed in a new folder
+# Replace all material slots of static mesh actors with certain name
+# Template for showing a progress bar while performing slow tasks
+# Spawn a point light for every actor that has "Lamp" in its label 
